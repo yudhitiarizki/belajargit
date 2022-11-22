@@ -1,0 +1,10 @@
+.kolom1{
+    border-radius: 10px;
+    margin: 5px;
+    background-color: white;
+}
+
+.active{
+    border-bottom: 5px;
+    border-color: black;
+}
